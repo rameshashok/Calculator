@@ -1,3 +1,3 @@
 # Calculator
 
-This is basic Calculator.
+This is basic iOS Calculator.
